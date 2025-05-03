@@ -8,8 +8,8 @@
     "text": "Sciences-Po médialab"
   },
   "text": {
-    "more": "Dieses Netzwerk repräsentiert Wikipedia-Artikel rund um das Thema Datenvisualisierung.\nJeder Knoten Stellt einen Artikel und jede Kante einen \"Siehe auch\"-Link dar.\nDer Datensatz wurde vom Team des  Sciences-Po médialab ersstellt.",
-    "intro": "Ein Netzwerk aus 2085 Wikipedie-Arteikeln zum Thema Datenvisualisierung.",
+    "more": "Dieses Netzwerk repräsentiert Wikipedia-Artikel rund um das Thema Datenvisualisierung.\nJeder Knoten Stellt einen Artikel und jede Kante einen \"Siehe auch\"-Link dar.\nDer Datensatz wurde vom Team des  Sciences-Po médialab erstellt.",
+    "intro": "Ein Netzwerk aus 2085 Wikipedia-Artikeln zum Thema Datenvisualisierung.",
     "title": "Wikipedia-Artikel zur Datenvisualisierung"
   },
   "legend": {
